@@ -33,6 +33,8 @@ month = jul,
 
 ## Artifact Structure
 
+<img src="https://github.com/oakestra/USENIX-ATC23-Oakestra-Artifacts/assets/5736850/73baf8e0-621a-4e16-844c-a480e0040912" width="60%" />
+
 There are a total of three artifact repositories for reproducing the experiments and results in the paper. 
 
 1. [Orchetrator repository](https://github.com/oakestra/USENIX-ATC23-Oakestra-Artifacts/tree/main/Experiments): The  repository contains the Root & Cluster orchestrators   folders, as well as the Node Engine source code for the worker node.
